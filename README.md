@@ -11,3 +11,5 @@ Written in JavaScript program
 * Random shapes (squares and circles)
 + Click on them as fast as possible 
 
+[check the demo](http://79.170.40.40/meerfi.com/3-javascript/)
+
